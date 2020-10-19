@@ -84,7 +84,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;97m************************************************
-\033[1;96m~ DADA GANG DG TERMUX BOX POWERED BY VIRUS 07 ~
+\033[1;96m~ LEGENDS AND CEIMINALS LAC TERMUX BOX POWERED BY VIRUS 07 ~
 \033[1;97m************************************************
 
 \033[1;92m▄▄          ▄▄▄▄       ▄▄▄▄    ▄▄▄▄▄▄   ▄▄▄   ▄▄
